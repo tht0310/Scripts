@@ -7,7 +7,6 @@
 // @version     2.0
 // @author      -
 // @description 9/17/2024, 10:56:19 AM
-// @downloadURL  https://github.com/tht0310/Scripts/blob/main/%5BPOPMART%5D%20Click%20Credit%20Card%20and%20Pay%20Button.js
 // ==/UserScript==
 
 (function() {
