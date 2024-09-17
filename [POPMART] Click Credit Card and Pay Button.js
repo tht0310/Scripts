@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Click Credit Card and Pay Button
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description
 // @author
 // @match        *https://www.popmart.com/vn/checkout?spuId=1306&skuId=2001&count=1&spuTitle=Happy%20Halloween%20Party%20Series-Sitting%20Pumpkin%20Vinyl%20Plush%20Pendant
